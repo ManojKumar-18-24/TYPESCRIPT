@@ -1,1 +1,16 @@
 # TYPESCRIPT
+
+## TYPES:
+
+### NUMBER
+### STRING
+### BOOLEAN
+### NULL
+### UNDEFINED
+### VOID
+### OBJECT
+### ARRAY
+### TUPLES
+### ANY
+### NEVER
+### UNKNOWN
